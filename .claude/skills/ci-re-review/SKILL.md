@@ -41,8 +41,8 @@ You review the issue as a **software requirement**: clarity, completeness, and i
 - Risks / open decisions: [bullets]
 
 ### Next steps
-- If **SUFFICIENT:** suggest label `ready-for-implementation` and a feature branch name.
-- If **NEEDS IMPROVEMENT:** suggest label `needs-clarification` and **specific questions** (not generic).
+- If **SUFFICIENT:** set issue-label label `ready-for-implementation` and suggest a feature branch name.
+- If **NEEDS IMPROVEMENT:** set issue-label label `needs-clarification` and **specific questions** (not generic).
 
 ---
 _Automated analysis._
